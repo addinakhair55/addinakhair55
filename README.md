@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey Fellas! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Addina Khairinisa</h1>
+  <h1>Hey Everyone! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Addina Khairinisa</h1>
   <h3>Student at <a href="https://nurulfikri.ac.id/" title="STT Terpadu Nurul Fikri">STT Terpadu Nurul Fikri</a>, Indonesia</h3>
 </div>
 
