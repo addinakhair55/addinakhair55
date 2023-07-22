@@ -15,14 +15,16 @@
 ## Connect with Me
 
 <div>
-  <a href="https://instagram.com/addina.ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addina.ak" height="30" width="40" />
+  <a href="https://instagram.com/addina.ak" target="blank" title="Instagram">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="addina.ak" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/addinakhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="addinakhair" height="30" width="40" />
+  <a href="https://linkedin.com/in/addinakhair" target="blank" title="LinkedIn">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="addinakhair" height="30" width="40" />
   </a>
-  <a href="mailto:addi21148ti@student.nurulfikri.ac.id" title="Gmail">
+  <a href="mailto:addi21148ti@student.nurulfikri.ac.id" target="blank" title="Gmail">
     <img src="https://api.iconify.design/logos/google-gmail.svg" alt="Gmail" align="center" height="30" width="40"> 
   </a>
-  <a href="https://github.com/addinakhair55" title="GitHub">
+  <a href="https://github.com/addinakhair55" title="GitHub" target="blank">
     <img src="https://api.iconify.design/bi/github.svg?color=%235c6bc0" alt="GitHub" align="center" height="30" width="40"> 
   </a>
 </div>
