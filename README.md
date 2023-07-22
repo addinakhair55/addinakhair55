@@ -3,7 +3,9 @@
   <h3>Student at <a href="https://nurulfikri.ac.id/" title="STT Terpadu Nurul Fikri">STT Terpadu Nurul Fikri</a>, Indonesia</h3>
 </div>
 
-## 👨🏻‍💻 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=addinakhair55&label=Profile%20views&color=0e75b6&style=flat" alt="addinakhair55" /> </p>
+
+## About Me
 
 ```javascript
 function myProfile() {
@@ -61,19 +63,6 @@ function myProfile() {
 
 <br/><br/>
 
-<details>
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=addinakhair55&label=Profile%20views&color=0e75b6&style=flat" alt="addinakhair55" />
-  </p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=addinakhair55" alt="addinakhair55" /></a>
-  </p>
-  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the badge" alt="" /></a>
-  </p>
-</details>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addinakhair55&show_icons=true&locale=en&layout=compact" alt="addinakhair55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addinakhair55&show_icons=true&locale=en" alt="addinakhair55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addinakhair55&" alt="addinakhair55" /></p>
