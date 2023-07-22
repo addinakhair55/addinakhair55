@@ -32,34 +32,35 @@
 ## Languages & Tools
 
 <div>
-  <a href="https://www.python.org" title="Python" rel="noreferrer">
-    <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="40" width="40"> 
+  <a href="https://www.python.org" title="Python" rel="noreferrer" target="blank">
+    <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="30" width="40"> 
   </a>
-  <a href="https://www.w3schools.com/html" title="HTML" rel="noreferrer">
-    <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="40" width="40"> 
+  <a href="https://www.w3schools.com/html" title="HTML" rel="noreferrer" target="blank">
+    <img src="https://api.iconify.design/vscode-icons/file-type-html.svg" alt="HTML" height="30" width="40"> 
   </a>
-  <a href="https://www.w3schools.com/css" title="CSS" rel="noreferrer">
-    <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="40" width="40"> 
+  <a href="https://www.w3schools.com/css" title="CSS" rel="noreferrer" target="blank">
+    <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS" height="30" width="40"> 
   </a>
-  <a href="https://www.javascript.com" title="JavaScript" rel="noreferrer">
-    <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="40" width="40"> 
+  <a href="https://www.javascript.com" title="JavaScript" rel="noreferrer" target="blank">
+    <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="30" width="40"> 
   </a>  
   <a href="https://www.php.net" title="PHP" rel="noreferrer">
-    <img src="https://api.iconify.design/logos/php.svg" alt="PHP" height="40" width="40"> 
+    <img src="https://api.iconify.design/logos/php.svg" alt="PHP" height="40" width="30" target="blank"> 
   </a>
-  <a href="https://code.visualstudio.com" title="Visual Studio Code" rel="noreferrer">
-    <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="Visual Studio Code" height="40" width="40"> 
+  <a href="https://code.visualstudio.com" title="Visual Studio Code" rel="noreferrer" target="blank">
+    <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="Visual Studio Code" height="30" width="40"> 
   </a>
-  <a href="https://www.figma.com" title="Figma" rel="noreferrer">
-    <img src="https://api.iconify.design/logos/figma.svg" alt="Figma" height="40" width="40"> 
+  <a href="https://www.figma.com" title="Figma" rel="noreferrer" target="blank">
+    <img src="https://api.iconify.design/logos/figma.svg" alt="Figma" height="30" width="40"> 
   </a>
-  <a href="https://www.mysql.com/" title="mysql" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
+  <a href="https://www.mysql.com/" title="mysql" rel="noreferrer" target="blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30">
   </a>
-  <a href="https://reactjs.org/" title="React" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <a href="https://reactjs.org/" title="React" rel="noreferrer" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/> 
   </a>
-  <a href="https://getbootstrap.com" title="bootstrap" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <a href="https://getbootstrap.com" title="bootstrap" rel="noreferrer" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/> 
   </a>
 </div>
 
