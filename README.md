@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://www.instagram.com/addina.ak/" title="Instagram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" align="center" height="40" width="40"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" align="center" height="40" width="40"> 
   </a>
   <a href="https://www.linkedin.com/in/addinakhair/" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" align="center" height="40" width="40"> 
