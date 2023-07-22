@@ -63,9 +63,17 @@ function myProfile() {
 
 <br/><br/>
 
-<summary>:zap: <strong>Most Used Languages</strong></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addinakhair55&show_icons=true&locale=en&layout=compact" alt="addinakhair55" /></p>
+<details>
+  <summary>:zap: <strong>GitHub Stats</strong></summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=addinakhair55&show_icons=true&locale=en" alt="addinakhair55" />
+</details>
+<details>
+  <summary>:zap: <strong>Most Used Languages</strong></summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addinakhair55&show_icons=true&locale=en&layout=compact" alt="addinakhair55" />
+</details>
 
-<br/><br/>
-<summary>:zap: <strong>GitHub Stats</strong></summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addinakhair55&show_icons=true&locale=en" alt="addinakhair55" /></p>
+<strong>Most Used Languages</strong>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addinakhair55&show_icons=true&locale=en&layout=compact" alt="addinakhair55" />
+
+<strong>GitHub Stats</strong></summary>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=addinakhair55&show_icons=true&locale=en" alt="addinakhair55" />
