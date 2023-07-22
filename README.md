@@ -71,9 +71,3 @@ function myProfile() {
   <summary>:zap: <strong>Most Used Languages</strong></summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addinakhair55&show_icons=true&locale=en&layout=compact" alt="addinakhair55" />
 </details>
-
-<strong>Most Used Languages</strong>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addinakhair55&show_icons=true&locale=en&layout=compact" alt="addinakhair55" />
-
-<strong>GitHub Stats</strong></summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=addinakhair55&show_icons=true&locale=en" alt="addinakhair55" />
