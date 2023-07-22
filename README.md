@@ -62,15 +62,13 @@ function myProfile() {
 <br/><br/>
 
 <details>
-  <summary>:zap: <strong>GitHub Stats</strong></summary>
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=addinakhair05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-</details>
-
-<details>
-  <summary>:zap: <strong>Most Used Languages</strong></summary>
-
-  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addinakhair05&layout=compact&langs_count=8&theme=algolia"/>
+  <p align="left">
+    <img src="https://komarev.com/ghpvc/?username=addinakhair55&label=Profile%20views&color=0e75b6&style=flat" alt="addinakhair55" />
+  </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=addinakhair55" alt="addinakhair55" /></a>
+  </p>
+  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the badge" alt="" /></a>
+  </p>
 
 </details>
