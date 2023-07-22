@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addinakhair55&label=Profile%20views&color=0e75b6&style=flat" alt="addinakhair55" /> </p>
 
 ## About Me
-- 👩‍💻 Name **Addina Khairinisa**
+- 👩‍💻 Name : **Addina Khairinisa**
 
-- 📜 Major **Informatics Engineering**
+- 📜 Major : **Informatics Engineering**
 
-- 🎓 University **STT Terpadu Nurul Fikri**
+- 🎓 University : [STT Terpadu Nurul Fikri](https://nurulfikri.ac.id/)
 
 ## Connect with Me
 
