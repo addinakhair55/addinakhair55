@@ -55,7 +55,10 @@
   </a>
   <a href="https://www.mysql.com/" title="mysql" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-  </a> 
+  </a>
+  <a href="https://reactjs.org/" title="React" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
 </div>
 
 <br/>
