@@ -14,7 +14,7 @@
 
 ## Connect with Me
 
-<p align="left">
+<div>
   <a href="https://www.instagram.com/addina.ak/" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" align="center" height="40" width="40"> 
   </a>
@@ -27,7 +27,7 @@
   <a href="https://github.com/addinakhair55" title="GitHub">
     <img src="https://api.iconify.design/bi/github.svg?color=%235c6bc0" alt="GitHub" align="center" height="40" width="40"> 
   </a>
-</p>
+</div>
 
 ## Languages & Tools
 
@@ -58,6 +58,8 @@
   </a>
   <a href="https://reactjs.org/" title="React" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" title="bootstrap" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
 </div>
 
