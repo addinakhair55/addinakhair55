@@ -61,8 +61,14 @@ function myProfile() {
   </a> 
 </div>
 
-<br/><br/>
+<details>
+  <summary>:zap: <strong>GitHub Stats</strong></summary>
 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfkri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+</details>
+
+<summary>:zap: <strong>GitHub Stats</strong></summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addinakhair55&show_icons=true&locale=en&layout=compact" alt="addinakhair55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addinakhair55&show_icons=true&locale=en" alt="addinakhair55" /></p>
