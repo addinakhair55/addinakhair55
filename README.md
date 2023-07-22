@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Addina Khairinisa</h1>
-<h3 align="center">I am a student at the Integrated STT Nurul Fikri Campus - S1 Informatics Engineering</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addinakhair55&label=Profile%20views&color=0e75b6&style=flat" alt="addinakhair55" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=addinakhair55" alt="addinakhair55" /></a> </p>
+<div align="center">
+  <h1>Hi Everyone! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px">,<br/>I’m Addina Khairinisa</h1>
+  <h3>Student at <a href="https://nurulfikri.ac.id/" title="STT Terpadu Nurul Fikri">STT Terpadu Nurul Fikri</a>, Indonesia</h3>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
