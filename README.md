@@ -64,13 +64,13 @@ function myProfile() {
 <details>
   <summary>:zap: <strong>GitHub Stats</strong></summary>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alfkri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=addinakhair05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 </details>
 
 <details>
   <summary>:zap: <strong>Most Used Languages</strong></summary>
 
-  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alfkri&layout=compact&langs_count=8&theme=algolia"/>
+  <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=addinakhair05&layout=compact&langs_count=8&theme=algolia"/>
 
 </details>
